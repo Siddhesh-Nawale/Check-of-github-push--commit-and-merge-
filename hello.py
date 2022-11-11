@@ -1,1 +1,1 @@
-print('check the edit and commit of gitjub') 
+print('check the edit and commit of GITHUB') 
