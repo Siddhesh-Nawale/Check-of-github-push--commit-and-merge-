@@ -1,1 +1,1 @@
-check the edit and commit of gitjubb 
+print('check the edit and commit of gitjub') 
