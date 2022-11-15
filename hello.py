@@ -1,1 +1,5 @@
-print('check the edit and commit of GITHUB for the third tiime') 
+print("This is an test check please do not bother to interfere ")
+print('Checking again')
+print('Silver')
+print('platinum')
+print('joker')
