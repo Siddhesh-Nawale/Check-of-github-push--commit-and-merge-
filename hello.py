@@ -4,4 +4,5 @@ print('Silver')
 print('platinum')
 print('joker')
 print('eleve')
+print('queen')
  
