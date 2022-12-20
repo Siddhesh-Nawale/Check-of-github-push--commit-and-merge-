@@ -1,4 +1,4 @@
----added the joker part!!!!!!!!!!!!!!
+---added the monkey part!!!!!!!!!!!!!!
 WITH basedata as (
     SELECT
         distinct obt.COMPANY_ID,
