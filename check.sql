@@ -1,4 +1,4 @@
--- file changes added to test the part
+-- file changes added to test the par
 WITH basedata as (
     SELECT
         distinct obt.COMPANY_ID,
