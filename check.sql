@@ -1,4 +1,4 @@
--- file changes added to test the par
+---added the joker part
 WITH basedata as (
     SELECT
         distinct obt.COMPANY_ID,
