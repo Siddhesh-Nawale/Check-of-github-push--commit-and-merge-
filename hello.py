@@ -6,4 +6,4 @@ print("joker")
 
 print("eleven and queen added")
 
-print("eleven")
+print("eleve")
