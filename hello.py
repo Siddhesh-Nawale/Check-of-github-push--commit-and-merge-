@@ -7,4 +7,4 @@ print("joker")
 print("eleven and queen added")
 
 print("eleve")
-print("pretty pink")
+print("pretty pin.k")
